@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal project <br>🌱 I’m currently learning Next js<br>💬 Ask me about anyhting
+🔭 I’m currently working on my personal project <br>🌱 I’m currently learning nothing!<br>💬 Ask me about anyhting
 
 
 ## 🌐 Socials:
