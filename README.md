@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Econest**
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **nothing tbh**
 
 - 🤝 I’m looking for help with **Web Development Related Stuff**
 
